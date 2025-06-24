@@ -1,1 +1,1 @@
-Strategy is trying find the of SMA and 1,2,3 of STD to find the positions of short and long.
+Strategy is finding SMA and 1,2,3 of STD to select the positions for short and long.
